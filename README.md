@@ -150,6 +150,7 @@ button {
 ## OUTPUT
 ![Screenshot 2025-05-25 105834](https://github.com/user-attachments/assets/2f2ad31a-4917-40fa-a5f4-bb03d628c337)
 
+![Uploading Screenshot 2025-05-25 105844.png…]()
 
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
